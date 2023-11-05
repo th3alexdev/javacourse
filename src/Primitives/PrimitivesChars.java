@@ -1,3 +1,5 @@
+package Primitives;
+
 public class PrimitivesChars {
     public static void main(String[] args) {
         char character = '\u0040';

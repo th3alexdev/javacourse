@@ -1,3 +1,5 @@
+package Primitives;
+
 public class PrimitivesFloats {
     protected static float PI;
 

@@ -1,3 +1,4 @@
+package Casting;
 public class CastingII {
     public static void main(String[] args) {
         int i = 42768;

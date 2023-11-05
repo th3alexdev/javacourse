@@ -1,3 +1,5 @@
+package Primitives;
+
 public class PrimitivesIntegers {
     public static void main(String[] args) {
         byte byteNumber = 127;

@@ -1,3 +1,5 @@
+package Casting;
+
 public class CastingI {
     public static void main(String[] args) {
         String numberStr = "50";

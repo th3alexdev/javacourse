@@ -12,15 +12,5 @@ public class NumberSystems {
 
         JOptionPane.showMessageDialog(null, "uwu");
 
-//        int nB = n;
-//        System.out.println("nB = " + nB);
-//
-//        int nO = 0764;
-//        System.out.println("nO = " + nO);
-//
-//        int nH = 0x1f4;
-//        System.out.println("nH = " + nH);
-
-
     }
 }

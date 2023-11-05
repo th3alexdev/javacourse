@@ -1,3 +1,5 @@
+package Primitives;
+
 public class PrimitivesBooleans {
     public static void main(String[] args) {
         double d = 98765.43e-3; // 98.76543
