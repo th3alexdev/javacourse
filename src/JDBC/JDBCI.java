@@ -38,13 +38,14 @@ public class JDBCI {
         } catch (SQLException throwables) {
             System.out.println(throwables.getMessage());
         } finally {
-            try {
-                result.close();
-                conn.close();
-                query.close();
-            } catch (SQLException e) {
-                System.out.println(e.getMessage());
-            }
+            // try {
+            //    result.close();
+            //    conn.close();
+            //    query.close();
+            //} catch (SQLException e) {
+            //    System.out.println(e.getMessage());
+            //}
+            //}
         }
     }
 }
